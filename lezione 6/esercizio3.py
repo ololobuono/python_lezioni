@@ -1,5 +1,6 @@
 from random import randrange
-num_rand = randrange(1, 100)
+# random da 1 a 100
+num_rand = randrange(1, 101)
 num = 0
 contatore = 0
 while num != num_rand:

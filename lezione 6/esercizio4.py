@@ -1,5 +1,6 @@
 from random import randrange
-list = [randrange(18, 30),randrange(18, 30),randrange(18, 30),randrange(18, 30),randrange(18, 30),randrange(18, 30),randrange(18, 30)]
+# Voti da 18 a 30
+list = [randrange(18, 31),randrange(18, 31),randrange(18, 31),randrange(18, 31),randrange(18, 31),randrange(18, 31),randrange(18, 31)]
 # Stampo la lista
 print('Lista di voti: ', list)
 lower = 31
