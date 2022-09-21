@@ -16,7 +16,6 @@ while num != num_rand:
         continue
     elif num == num_rand:
         print('Complimenti hai vinto in ' + str(contatore) + ' tentativi')
-        break
     elif num > num_rand:
         print('Il numero scelto è troppo grande ')
     elif num < num_rand:
