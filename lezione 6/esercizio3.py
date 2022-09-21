@@ -11,7 +11,7 @@ while num != num_rand:
     contatore = contatore + 1
     if num == 999:
         print('Bye! ')
-        break;
+        break
     elif num < 1 or num > 100:
         continue
     elif num == num_rand:
